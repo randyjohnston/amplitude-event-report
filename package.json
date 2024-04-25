@@ -1,0 +1,24 @@
+{
+  "name": "amplitude-event-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randyjohnston/amplitude-event-report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randyjohnston/amplitude-event-report/issues"
+  },
+  "homepage": "https://github.com/randyjohnston/amplitude-event-report#readme",
+  "dependencies": {
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0"
+  }
+}
